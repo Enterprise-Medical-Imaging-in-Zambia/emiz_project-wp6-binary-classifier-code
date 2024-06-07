@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore virtual environment folder
+venv/
+oldervenv/
+modelv1.h5
